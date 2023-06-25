@@ -8,7 +8,7 @@
 
   TaskMate is a fully responsive todo app, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://chintan1312.github.io/TaskMate-todo-webapp/"><strong>➥ Live Demo</strong></a>
+  <a href="https://chintan1312.github.io/TaskMate-todo-webapp/index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
 
