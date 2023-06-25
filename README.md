@@ -3,8 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/ChintanKoradiya/TaskMate)
   ![GitHub stars](https://img.shields.io/github/stars/ChintanKoradiya/TaskMate?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/ChintanKoradiya/TaskMate?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/ChintanKoradiya?style=social)](https://twitter.com/intent/follow?screen_name=ChintanKoradiya)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BWmL66b9bOo?style=social)](https://youtu.be/BWmL66b9bOo)
+
 
   <br />
   <br />
