@@ -1,8 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/ChintanKoradiya/TaskMate)
-  ![GitHub stars](https://img.shields.io/github/stars/ChintanKoradiya/TaskMate?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/ChintanKoradiya/TaskMate?style=social)
 
 
   <br />
